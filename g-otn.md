@@ -1,9 +1,9 @@
 # g-otn
 
 I wanted to test the GitHub feature which allows you to display a README on your profile
-page, and well as a trick that enables you to [use CSS in README files](https://github.com/sindresorhus/css-in-readme-like-wat).
+page, and well as a trick that enables you to [put HTML and CSS in README files](https://github.com/sindresorhus/css-in-readme-like-wat).
 
-Thanks [ioxua](https://github.com/ioxua) for showing me this fun trick and also
+Thanks to [ioxua](https://github.com/ioxua) for showing me this fun trick and also
 motivating me to mess a little with it.
 
 <div align="center">
